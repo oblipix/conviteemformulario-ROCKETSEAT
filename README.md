@@ -2,6 +2,16 @@
 
 Este projeto consiste em um site de convite para eventos, onde os usuários podem criar convites personalizados por meio de um formulário simples e intuitivo.
 
+
+
+
+
+![Captura de tela 2025-03-11 130347](https://github.com/user-attachments/assets/42f76673-1ab6-4bb2-a677-7ca6f2c8131a)
+
+
+
+
+
 ## Tecnologias Utilizadas
 
 - HTML
